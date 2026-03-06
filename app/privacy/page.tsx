@@ -89,8 +89,8 @@ export default function PrivacyPolicyPage() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-3 mt-6">3.2 Assistance</h3>
                 <p>
                   For support related to SMS messaging, contact us at:{" "}
-                  <a href="mailto:info@axtokyo.net" className="text-[#FF2B2B] hover:underline">
-                    info@axtokyo.net
+                  <a href="mailto:info@axomaha.com" className="text-[#FF2B2B] hover:underline">
+                    info@axomaha.com
                   </a>
                 </p>
 
@@ -131,8 +131,8 @@ export default function PrivacyPolicyPage() {
                 </ul>
                 <p className="mt-4">
                   To make a request, contact us at:{" "}
-                  <a href="mailto:info@axtokyo.net" className="text-[#FF2B2B] hover:underline">
-                    info@axtokyo.net
+                  <a href="mailto:info@axomaha.com" className="text-[#FF2B2B] hover:underline">
+                    info@axomaha.com
                   </a>
                 </p>
               </section>
@@ -148,7 +148,7 @@ export default function PrivacyPolicyPage() {
               <section className="pt-4">
                 <h2 className="text-2xl font-bold text-primary mb-4">8. Children's Privacy</h2>
                 <p>
-                  Ax Omaha does not knowingly collect personal information from individuals under the age of 16. Our
+                  Ax Omaha does not knowingly collect personal information from individuals under the age of 18. Our
                   services are intended for adults and professional users.
                 </p>
               </section>
@@ -168,8 +168,8 @@ export default function PrivacyPolicyPage() {
                   <p className="font-semibold">Ax Omaha Privacy Office</p>
                   <p>
                     Email:{" "}
-                    <a href="mailto:info@axtokyo.net" className="text-[#FF2B2B] hover:underline">
-                      info@axtokyo.net
+                    <a href="mailto:info@axomaha.com" className="text-[#FF2B2B] hover:underline">
+                      info@axomaha.com
                     </a>
                   </p>
                 </div>
