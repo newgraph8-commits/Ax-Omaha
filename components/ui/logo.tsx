@@ -18,7 +18,7 @@ export function Logo({ light = false, className, iconOnly = false, onClick }: Lo
     <Link href="/" className={cn("flex items-center gap-2.5 group flex-shrink-0", className)} onClick={onClick}>
       <div className="relative w-8 h-8 flex-shrink-0">
         <Image
-          src="/images/ax-omaha-logo.png"
+          src="/images/ax-tokyo-logo.png"
           alt="Ax Omaha Logo"
           width={32}
           height={32}
