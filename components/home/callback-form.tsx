@@ -47,10 +47,12 @@ export function CallbackForm() {
             >
               <div className="mb-8">
                 <h2 className="text-3xl md:text-4xl font-serif text-white mb-6">Connect With Us</h2>
-                <p className="text-white/80 text-lg leading-relaxed">
-                  Would you like to connect with one of our expert recruiters by phone? Share your details and we’ll
-                  reach out. You’re also welcome to contact us by email if that’s more convenient.
-                </p>
+              <p className="text-white/80 text-lg leading-relaxed">
+                Ax Omaha delivers trusted expertise in the often overlooked work of building corporate teams. We support
+                executive, director, and staff-level hiring across finance and accounting, IT services, sales,
+                marketing, manufacturing, engineering, human resources, corporate communications, community relations,
+                media relations, and administrative roles.
+              </p>
               </div>
 
               {isSuccess ? (
@@ -148,7 +150,7 @@ export function CallbackForm() {
               <div className="relative aspect-video bg-muted rounded-sm overflow-hidden mb-6 shadow-xl">
                 <img
                   src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop"
-                  alt="Ax Tokyo Insights"
+                  alt="Ax Omaha Insights"
                   className="object-cover w-full h-full hover:scale-105 transition-transform duration-700"
                 />
               </div>
@@ -158,7 +160,7 @@ export function CallbackForm() {
             <div className="space-y-6">
               <div className="w-full h-px bg-border/60" />
               <p className="text-muted-foreground leading-relaxed text-lg">
-                Ax Tokyo delivers trusted expertise in the often overlooked work of building corporate teams. We support
+                Ax Omaha delivers trusted expertise in the often overlooked work of building corporate teams. We support
                 executive, director, and staff-level hiring across finance and accounting, IT services, sales,
                 marketing, manufacturing, engineering, human resources, corporate communications, community relations,
                 media relations, and administrative roles.

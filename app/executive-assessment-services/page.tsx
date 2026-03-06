@@ -35,7 +35,7 @@ export default function ExecutiveAssessmentServicesPage() {
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
               By integrating strategic advisory insight, customized evaluations of executive talent, and deep recruiting
-              expertise, Ax Tokyo has developed a comprehensive and highly effective framework for assessing potential
+              expertise, Ax Omaha has developed a comprehensive and highly effective framework for assessing potential
               board candidates.
             </p>
 
@@ -107,7 +107,7 @@ export default function ExecutiveAssessmentServicesPage() {
                   </ul>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    The effectiveness of these crucial executive and board decisions is reinforced by Ax Tokyo's
+                    The effectiveness of these crucial executive and board decisions is reinforced by Ax Omaha's
                     advanced infrastructure and industry-leading expertise.
                   </p>
                 </div>

@@ -3,7 +3,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Leadership Succession Planning - Ax Tokyo",
+  title: "Leadership Succession Planning - Ax Omaha",
   description: "Strategic succession planning and leadership transition expertise",
 }
 
@@ -26,7 +26,7 @@ export default function LeadershipSuccessionPlanningPage() {
                 preserve organizational cohesion.
               </p>
               <p className="leading-relaxed">
-                To support this need, Ax Tokyo designs and executes succession strategies tailored to each client's
+                To support this need, Ax Omaha designs and executes succession strategies tailored to each client's
                 structure and long-term goals. Our consultants apply extensive experience in managing executive
                 turnover, ensuring that the transition of top leadership is carried out with minimal disruption and that
                 stability is maintained throughout every layer of the organization.
@@ -72,7 +72,7 @@ export default function LeadershipSuccessionPlanningPage() {
                 </div>
                 <h3 className="text-xl font-bold text-primary">Proven Talent Evaluation Model</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Leadership advancement and development decisions are strengthened through Ax Tokyo's tested framework,
+                  Leadership advancement and development decisions are strengthened through Ax Omaha's tested framework,
                   which delivers a clear measure of both existing and emerging talent.
                 </p>
               </div>

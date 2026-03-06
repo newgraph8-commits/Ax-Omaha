@@ -39,7 +39,7 @@ export default function MarketingPage() {
               represent only the starting point.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Tokyo develops advanced, adaptive SEO frameworks that align with audience behavior, expand visibility,
+              Ax Omaha develops advanced, adaptive SEO frameworks that align with audience behavior, expand visibility,
               and strengthen an organization's digital presence across key channels.
             </p>
 
@@ -81,7 +81,7 @@ export default function MarketingPage() {
                   <div>
                     <h2 className="text-3xl font-bold text-primary mb-4">SEARCH ENGINE OPTIMIZATION</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-6">
-                      Ax Tokyo brings the technical depth and strategic foresight needed to expand, refine, and dominate
+                      Ax Omaha brings the technical depth and strategic foresight needed to expand, refine, and dominate
                       your target audience segments.
                     </p>
 
@@ -120,7 +120,7 @@ export default function MarketingPage() {
 
                     <h3 className="text-xl font-bold text-primary mb-3">Localized SEO</h3>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
-                      Ax Tokyo treats local visibility as a growth accelerator. We uncover the keywords, visuals, and
+                      Ax Omaha treats local visibility as a growth accelerator. We uncover the keywords, visuals, and
                       content angles that lead to community dominance—helping your business carve out a durable,
                       recognized niche in any competitive region.
                     </p>
@@ -164,7 +164,7 @@ export default function MarketingPage() {
                       interactions—commanding around 20% of global digital ad market share.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
-                      Ax Tokyo understands exactly why the platform performs at that scale.
+                      Ax Omaha understands exactly why the platform performs at that scale.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full">
                       Our creative engineers build scalable, high-impact campaigns that transform attention into action.
@@ -177,7 +177,7 @@ export default function MarketingPage() {
                     <h2 className="text-3xl font-bold text-primary mb-4">Google Pay-Per-Click</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
                       When Facebook advertising is integrated with paid search, overall performance increases
-                      substantially. This multi-channel dynamic has enabled Ax Tokyo clients to achieve stronger click
+                      substantially. This multi-channel dynamic has enabled Ax Omaha clients to achieve stronger click
                       through rate (CTR) results and expanded audience reach.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
@@ -189,7 +189,7 @@ export default function MarketingPage() {
                       <br />
                       By integrating Facebook and Google PPC strategies, organizations can take advantage of a
                       particularly strong moment in the market to expand and strengthen their customer pipelines. Ax
-                      Tokyo ensures that clients leverage this environment to its fullest potential.
+                      Omaha ensures that clients leverage this environment to its fullest potential.
                     </p>
                   </div>
 
@@ -214,7 +214,7 @@ export default function MarketingPage() {
                         <h4 className="text-lg font-semibold text-primary mb-2">(b) Monetization Strategy</h4>
                         <p className="text-lg text-muted-foreground leading-relaxed w-full">
                           Organizations looking to improve app performance across multiple user touchpoints rely on Ax
-                          Tokyo for the technical capabilities and operational support required to launch effectively,
+                          Omaha for the technical capabilities and operational support required to launch effectively,
                           scale efficiently, and monetize successfully.
                         </p>
                       </div>

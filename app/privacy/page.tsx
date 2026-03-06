@@ -3,8 +3,8 @@ import { Footer } from "@/components/layout/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Ax Tokyo",
-  description: "Privacy Policy for Ax Tokyo executive search services.",
+  title: "Privacy Policy | Ax Omaha",
+  description: "Privacy Policy for Ax Omaha executive search services.",
 }
 
 export default function PrivacyPolicyPage() {
@@ -24,7 +24,7 @@ export default function PrivacyPolicyPage() {
             <div className="prose prose-lg max-w-none space-y-8 text-gray-700 leading-relaxed">
               <section>
                 <p className="text-lg">
-                  Ax Tokyo ("we," "our," or "us") is committed to protecting your personal information and maintaining
+                  Ax Omaha ("we," "our," or "us") is committed to protecting your personal information and maintaining
                   transparency regarding how your data is collected, used, and safeguarded. This Privacy Policy explains
                   how we handle information when you interact with our website, communication systems, and SMS
                   notification services.
@@ -89,8 +89,8 @@ export default function PrivacyPolicyPage() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-3 mt-6">3.2 Assistance</h3>
                 <p>
                   For support related to SMS messaging, contact us at:{" "}
-                  <a href="mailto:info@axtokyo.net" className="text-[#FF2B2B] hover:underline">
-                    info@axtokyo.net
+                  <a href="mailto:info@axomaha.com" className="text-[#FF2B2B] hover:underline">
+                    info@axomaha.com
                   </a>
                 </p>
 
@@ -131,8 +131,8 @@ export default function PrivacyPolicyPage() {
                 </ul>
                 <p className="mt-4">
                   To make a request, contact us at:{" "}
-                  <a href="mailto:info@axtokyo.net" className="text-[#FF2B2B] hover:underline">
-                    info@axtokyo.net
+                  <a href="mailto:info@axomaha.com" className="text-[#FF2B2B] hover:underline">
+                    info@axomaha.com
                   </a>
                 </p>
               </section>
@@ -148,7 +148,7 @@ export default function PrivacyPolicyPage() {
               <section className="pt-4">
                 <h2 className="text-2xl font-bold text-primary mb-4">8. Children's Privacy</h2>
                 <p>
-                  Ax Tokyo does not knowingly collect personal information from individuals under the age of 16. Our
+                  Ax Omaha does not knowingly collect personal information from individuals under the age of 18. Our
                   services are intended for adults and professional users.
                 </p>
               </section>
@@ -165,11 +165,11 @@ export default function PrivacyPolicyPage() {
                 <h2 className="text-2xl font-bold text-primary mb-4">10. Contact Information</h2>
                 <p>For privacy inquiries, please contact:</p>
                 <div className="mt-4 space-y-2">
-                  <p className="font-semibold">Ax Tokyo Privacy Office</p>
+                  <p className="font-semibold">Ax Omaha Privacy Office</p>
                   <p>
                     Email:{" "}
-                    <a href="mailto:info@axtokyo.net" className="text-[#FF2B2B] hover:underline">
-                      info@axtokyo.net
+                    <a href="mailto:info@axomaha.com" className="text-[#FF2B2B] hover:underline">
+                      info@axomaha.com
                     </a>
                   </p>
                 </div>

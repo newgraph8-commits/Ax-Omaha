@@ -37,7 +37,7 @@ export default function EducationPage() {
             </h1>
 
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Within higher education, Ax Tokyo has built a proven track record of sourcing and placing distinguished
+              Within higher education, Ax Omaha has built a proven track record of sourcing and placing distinguished
               academic leaders for respected universities and private institutions. This success is supported by our
               deep engagement with presidents, provosts, chancellors, vice presidents, deans, faculty leadership,
               coaches, alumni, and additional decision-makers who play a central role in selecting candidates for
@@ -75,6 +75,7 @@ export default function EducationPage() {
                     src="/university-campus-students-studying-education-acad.jpg"
                     alt="Academic leadership and education"
                     fill
+                    loading="eager"
                     className="object-cover"
                   />
                 </div>
@@ -85,7 +86,7 @@ export default function EducationPage() {
                 <div className="space-y-6">
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Access to distinguished academic talent is often limited by time constraints and the difficulty of
-                    reaching senior leaders, yet Ax Tokyo's industry relationships and extensive resources allow
+                    reaching senior leaders, yet Ax Omaha's industry relationships and extensive resources allow
                     organizations to connect with top-tier candidates efficiently. This capability is reinforced by our
                     nationwide network of senior academic leaders, which enables a recruitment process defined by
                     strategic foresight, sharp evaluative judgment, and the creativity required to identify individuals
