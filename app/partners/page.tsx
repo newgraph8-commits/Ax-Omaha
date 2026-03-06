@@ -80,8 +80,8 @@ export default function PartnersPage() {
               <p className="text-lg text-muted-foreground leading-relaxed">
                 To integrate Ax Omaha's 12 AC system into your Human Resources framework or to enroll in the Ax Omaha
                 system application, please contact an Ax Omaha representative at:{" "}
-                <a href="mailto:info@axtokyo.net" className="text-primary hover:underline font-semibold">
-                  info@axtokyo.net
+                <a href="mailto:info@axomaha.com" className="text-primary hover:underline font-semibold">
+                  info@axomaha.com
                 </a>
               </p>
             </div>
