@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Partners - Ax Tokyo",
+  title: "Partners - Ax Omaha",
   description: "Our trusted partners in executive recruitment and talent solutions",
 }
 
@@ -75,11 +75,11 @@ export default function PartnersPage() {
             <div className="max-w-4xl">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 Case studies featuring real-world examples have demonstrated the effectiveness, speed, adaptability, and
-                overall success of Ax Tokyo's system.
+                overall success of Ax Omaha's system.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                To integrate Ax Tokyo's 12 AC system into your Human Resources framework or to enroll in the Ax Tokyo
-                system application, please contact an Ax Tokyo representative at:{" "}
+                To integrate Ax Omaha's 12 AC system into your Human Resources framework or to enroll in the Ax Omaha
+                system application, please contact an Ax Omaha representative at:{" "}
                 <a href="mailto:info@axtokyo.net" className="text-primary hover:underline font-semibold">
                   info@axtokyo.net
                 </a>

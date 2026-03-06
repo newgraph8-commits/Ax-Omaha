@@ -18,8 +18,8 @@ export function Logo({ light = false, className, iconOnly = false, onClick }: Lo
     <Link href="/" className={cn("flex items-center gap-2.5 group flex-shrink-0", className)} onClick={onClick}>
       <div className="relative w-8 h-8 flex-shrink-0">
         <Image
-          src="/images/ax-tokyo-logo.png"
-          alt="Ax Tokyo Logo"
+          src="/images/ax-omaha-logo.png"
+          alt="Ax Omaha Logo"
           width={32}
           height={32}
           className="w-full h-full object-contain"
@@ -35,7 +35,7 @@ export function Logo({ light = false, className, iconOnly = false, onClick }: Lo
               light ? "text-white" : "text-primary",
             )}
           >
-            Ax Tokyo
+            Ax Omaha
           </span>
           <div className={cn("h-[1px] w-full my-1", light ? "bg-white/30" : "bg-primary/20")} />
           <span

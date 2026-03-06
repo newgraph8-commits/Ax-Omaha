@@ -17,7 +17,7 @@ export function Footer() {
               <Logo light />
             </div>
             <p className="text-white leading-relaxed max-w-md">
-              Ax Tokyo prioritizes an active-listening approach with clients, striving to fully understand their ideal
+              Ax Omaha prioritizes an active-listening approach with clients, striving to fully understand their ideal
               vision for every critical role.
             </p>
             <div className="pt-4">
@@ -84,7 +84,7 @@ export function Footer() {
             </h4>
             <div className="space-y-4 text-white leading-relaxed">
               <p>
-                The Ax Tokyo advantage lies in our global leadership in executive recruitment, spanning high-impact
+                The Ax Omaha advantage lies in our global leadership in executive recruitment, spanning high-impact
                 sectors including finance, technology, entertainment, law, healthcare, human resources, and education.
               </p>
               <p>
@@ -100,7 +100,7 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="container mx-auto py-6" style={{ paddingInline: "clamp(1rem, 4vw, 3rem)" }}>
           <p className="text-center text-white/80 text-sm">
-            Copyright © 2026 Ax Tokyo, LLC All Rights Reserved.
+            Copyright © 2026 Ax Omaha, LLC All Rights Reserved.
           </p>
         </div>
       </div>
