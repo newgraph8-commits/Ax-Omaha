@@ -75,6 +75,7 @@ export default function EducationPage() {
                     src="/university-campus-students-studying-education-acad.jpg"
                     alt="Academic leadership and education"
                     fill
+                    loading="eager"
                     className="object-cover"
                   />
                 </div>
